@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidTrainning</string>
+    <string name="label_name">nombre</string>
+    <string name="label_surname">apellidos</string>
+    <string name="action_save">guardar</string>
+    <string name="action_cleanse">limpiar</string>
+</resources>
